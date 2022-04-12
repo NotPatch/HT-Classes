@@ -1,0 +1,8 @@
+name: HTClasses
+version: ${project.version}
+main: pw.hysteria.classes.Classes
+api-version: 1.17
+softdepend:
+  - PlaceholderAPI
+commands:
+  class:

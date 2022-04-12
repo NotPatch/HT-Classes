@@ -1,0 +1,44 @@
+Gui:
+  Title: "#7DA011sad"
+  Ghiblon:
+    Material: IRON_SWORD
+    Name: "#7DA011Ghiblon"
+    Lore:
+    - "#7DA011deneme1"
+    - "#3DA271deneme2"
+    Glow: true
+  Avaria:
+    Material: IRON_SWORD
+    Name: "#7DA011Ghiblon"
+    Lore:
+      - "#7DA011deneme1"
+      - "#3DA271deneme2"
+    Glow: true
+  Jester:
+    Material: IRON_SWORD
+    Name: "#7DA011Ghiblon"
+    Lore:
+      - "#7DA011deneme1"
+      - "#3DA271deneme2"
+    Glow: true
+  York:
+    Material: IRON_SWORD
+    Name: "#7DA011Ghiblon"
+    Lore:
+      - "#7DA011deneme1"
+      - "#3DA271deneme2"
+    Glow: true
+  Phobia:
+    Material: IRON_SWORD
+    Name: "#7DA011Ghiblon"
+    Lore:
+      - "#7DA011deneme1"
+      - "#3DA271deneme2"
+    Glow: true
+  Info:
+    Material: BOOK
+    Name: "#7DA011Ghiblon"
+    Lore:
+      - "#7DA011deneme1"
+      - "#3DA271deneme2"
+    Glow: true

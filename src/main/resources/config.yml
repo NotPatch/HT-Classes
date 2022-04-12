@@ -1,0 +1,13 @@
+Classes:
+  GHIBLON:
+    selection-message: "&casdfasd"
+    Location:
+      X: 100
+      Y: 90
+      Z: 100
+      World: world
+      Yaw: 200
+      Pitch: 100
+
+Gui:
+  title: "#7DA011Irklar"
